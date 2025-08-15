@@ -6,7 +6,8 @@ Manual reference: [https://happyweed.tistory.com/40](https://happyweed.tistory.c
 ---
 
 ## 📷 Screenshot
-![앱 스크린샷](screenshot.png)
+![앱 스크린샷](https://github.com/Weed0709/BlackNotePad/blob/main/screenshot.PNG?raw=true)
+
 
 ---
 
